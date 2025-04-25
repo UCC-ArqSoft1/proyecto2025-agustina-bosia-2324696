@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt" // Importamos el paquete fmt para imprimir en consola
-	"math"
+
 	"math/rand"
 )
 
@@ -15,8 +15,6 @@ var (
 func main() {
 
 	var randomNumber = rand.Intn(100)
-
-	Number = math.Round(float64(randomNumber))
 
 	fmt.Println("Número aleatorio:", randomNumber)
 
