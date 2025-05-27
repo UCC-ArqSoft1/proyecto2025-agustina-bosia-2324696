@@ -1,0 +1,4 @@
+mode: set
+main.go/main.go:3.30,4.11 1 1
+main.go/main.go:4.11,6.3 1 1
+main.go/main.go:7.2,7.10 1 1
